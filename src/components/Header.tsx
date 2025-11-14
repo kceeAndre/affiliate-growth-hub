@@ -27,6 +27,9 @@ const Header = () => {
             <a href="#about" className="text-foreground hover:text-accent transition-colors">
               About
             </a>
+            <a href="#blog" className="text-foreground hover:text-accent transition-colors">
+              Blog
+            </a>
             <Button variant="hero" size="lg">
               Get Started
             </Button>
@@ -64,6 +67,13 @@ const Header = () => {
               onClick={() => setIsMenuOpen(false)}
             >
               About
+            </a>
+            <a
+              href="#blog"
+              className="block py-2 text-foreground hover:text-accent transition-colors"
+              onClick={() => setIsMenuOpen(false)}
+            >
+              Blog
             </a>
             <Button variant="hero" size="lg" className="w-full">
               Get Started
