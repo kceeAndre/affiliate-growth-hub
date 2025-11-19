@@ -16,7 +16,7 @@ const stats = [
   },
   {
     icon: DollarSign,
-    value: "$50M+",
+    value: "$500K+",
     label: "Revenue Driven",
     description: "In the last 12 months",
   },
@@ -72,7 +72,7 @@ const Results = () => {
             <div className="text-center">
               <div className="text-6xl mb-6">"</div>
               <p className="text-2xl mb-8 leading-relaxed">
-                AffiliateX transformed our marketing strategy. Within 6 months, we saw a 400% increase in qualified leads and our revenue doubled. Their team is professional, responsive, and truly invested in our success.
+               InfoLink Media transformed our marketing strategy. Within 6 months, we saw a 400% increase in qualified leads and our revenue doubled. Their team is professional, responsive, and truly invested in our success.
               </p>
               <div className="flex items-center justify-center space-x-4">
                 <div className="w-16 h-16 bg-accent rounded-full flex items-center justify-center">

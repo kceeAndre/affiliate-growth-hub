@@ -33,7 +33,7 @@ const CTA = () => {
           <div className="flex flex-col sm:flex-row items-center justify-center gap-8 text-primary-foreground/80">
             <div className="flex items-center space-x-3">
               <Mail className="w-5 h-5" />
-              <span>contact@affiliatex.com</span>
+              <span>maxwell@infolinkmedia.com.ng</span>
             </div>
             <div className="flex items-center space-x-3">
               <Phone className="w-5 h-5" />

@@ -26,7 +26,7 @@ const About = () => {
         <div className="grid lg:grid-cols-2 gap-16 items-center">
           <div>
             <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-6">
-              Why Choose AffiliateX?
+              Why Choose InfoLink Media?
             </h2>
             <p className="text-xl text-muted-foreground mb-8 leading-relaxed">
               We're not just another marketing agency. We're your growth partners, dedicated to scaling your business through performance-based strategies that actually work.

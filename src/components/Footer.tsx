@@ -11,7 +11,7 @@ const Footer = () => {
               <div className="w-10 h-10 bg-accent rounded-lg flex items-center justify-center">
                 <span className="text-2xl font-bold text-accent-foreground">A</span>
               </div>
-              <span className="text-xl font-bold">AffiliateX</span>
+              <span className="text-xl font-bold">InfoLink Media</span>
             </div>
             <p className="text-primary-foreground/70 text-sm">
               Driving growth through performance-based affiliate marketing strategies.
@@ -62,7 +62,7 @@ const Footer = () => {
 
         {/* Bottom */}
         <div className="border-t border-primary-foreground/20 pt-8 text-center text-sm text-primary-foreground/60">
-          <p>&copy; 2024 AffiliateX. All rights reserved. | Privacy Policy | Terms of Service</p>
+          <p>&copy; 2024 InfoLink Media. All rights reserved. | Privacy Policy | Terms of Service</p>
         </div>
       </div>
     </footer>

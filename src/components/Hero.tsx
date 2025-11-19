@@ -59,7 +59,7 @@ const Hero = () => {
               <div className="text-sm text-primary-foreground/70">Active Campaigns</div>
             </div>
             <div className="text-center">
-              <div className="text-4xl md:text-5xl font-bold text-accent mb-2">$50M+</div>
+              <div className="text-4xl md:text-5xl font-bold text-accent mb-2">$500K+</div>
               <div className="text-sm text-primary-foreground/70">Revenue Generated</div>
             </div>
             <div className="text-center">
